@@ -1,0 +1,46 @@
+body {
+  background-image: url("./images/bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Varela Round", sans-serif;
+
+  position: relative;
+
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  font-size: 72px;
+}
+
+.start-btn{
+  width:200px;
+  margin: 0 auto;
+}
+.start-btn button{
+  width : 200px;
+  height : 100px;
+  margin: 0 auto;
+}
+
+.input-box{
+  width: 300px;
+  margin: 0 auto;
+}
+.input-box input{
+  width:300px;
+  height : 20px;
+  display: none;
+  margin-top: 20px;
+}
+.init-btn{
+  width: 50px;
+  margin: 20px auto;
+}
+.init-btn input{
+  width: 50px;
+  height: 50px;
+  margin: 10px auto;
+  display: none;
+}
